@@ -30,4 +30,4 @@ Certifique-se de ter o Python instalado na sua máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/coinpulse.git](https://github.com/SEU-USUARIO/coinpulse.git)
+   git clone https://github.com/murilolab/coinpulse.git(https://github.com/murilolab/coinpulse.git)
