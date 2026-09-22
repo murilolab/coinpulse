@@ -30,4 +30,13 @@ Certifique-se de ter o Python instalado na sua máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/murilolab/coinpulse.git(https://github.com/murilolab/coinpulse.git)
+   git clone https://github.com/murilolab/coinpulse.git
+
+---
+
+## 👤 Autor
+
+Desenvolvido por **Murilo Veloso**.
+
+- **GitHub:** [@murilolab](https://github.com/murilolab)
+- **LinkedIn:** [Murilo Veloso](https://www.linkedin.com/in/murilovelosodev)
