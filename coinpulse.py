@@ -19,6 +19,11 @@ def  menu():
                 break
             except ValueError:
                 print('Opção inválida!')
+                print('='*30)
+                print('          CoinPulse')
+                print('='*30)
+                print('1. Verificar cotação atual da moeda\n2. Sair')
+                print('-'*30)
     return escolha
 def moeda_escolhida():
     moedas_validas=['USD','EUR','BTC','GBP','JPY','CAD','AUD','CHF','ETH']
